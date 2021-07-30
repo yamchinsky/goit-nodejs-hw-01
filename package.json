@@ -1,0 +1,29 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamchinsky/goit-nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Pavlo <y.p.p@i.ua>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamchinsky/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/yamchinsky/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "yargs": "^17.0.1"
+  },
+  "dependencies": {
+    "uuidv4": "^6.2.11"
+  }
+}
